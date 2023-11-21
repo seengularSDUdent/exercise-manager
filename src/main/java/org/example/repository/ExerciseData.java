@@ -1,2 +1,6 @@
-package org.example.repository;public interface ExerciseData {
+package org.example.repository;
+
+public interface ExerciseData {
+
+    public void save();
 }
